@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://nbharath1306.github.io/Circle13/sitemap.xml
+Sitemap: https://circle13.space/sitemap.xml
 
 # Allow AI crawlers
 User-agent: GPTBot
