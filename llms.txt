@@ -1,0 +1,52 @@
+# Circle13
+
+> Circle13 is a premium tech collective and startup studio founded in 2025. We specialize in AI automation, micro-startups, and rapid product innovation.
+
+## About
+
+Circle13 is a movement of innovators pushing the boundaries of what's possible in technology. We operate on the principle that "volume negates luck" — instead of betting on a single idea, we build an engine of chaos and creation, launching multiple ventures simultaneously. If we launch 10 ships, one will reach the stars.
+
+Founded in 2025, Circle13 brings together elite talent to transform ambitious ideas into groundbreaking reality. We are not just a team — we are the signal in the noise.
+
+## What We Do
+
+- **AI Automation**: Optimizing workflows through neural networks and intelligent agents
+- **Micro-Startups**: Rapid prototyping engine for market testing new ideas at speed
+- **Innovation Summits**: Global community gatherings for knowledge transfer and networking
+- **Product Development**: Full-stack development from concept to launch
+
+## Core Team
+
+- **N. Bharath** — Founder & CEO, strategic leadership and vision
+- **Akhil Vipin Nair** — CTO & Tech Lead, scalable systems and technical architecture
+- **G K Harjith Adithyha** — Team Member
+- **Praseeda P Rao** — Team Member
+
+## Our Philosophy
+
+We believe in:
+- **Visionary Thinking** — We create trends, not follow them
+- **Elite Craftsmanship** — Excellence in every line of code
+- **Rapid Execution** — Speed and quality, delivered together
+- **Volume Negates Luck** — Launch many, let the market decide
+
+## Technology & Expertise
+
+- Web Development & Modern Frontend (React, Tailwind CSS, Three.js)
+- Backend Architecture & Scalable Systems
+- AI/ML Integration & Automation
+- Cloud & DevOps, CI/CD Pipelines
+- UI/UX Design & Product Strategy
+- Mobile Application Development
+
+## Connect
+
+- Website: https://nbharath1306.github.io/Circle13/
+- LinkedIn: https://www.linkedin.com/company/circle13ai/
+- Instagram: https://www.instagram.com/circle13.signal/
+- Discord: https://discord.gg/jTC4u97w5Z
+- Join Us: https://docs.google.com/forms/d/e/1FAIpQLSdolKZ_TboIpjHoalDXUdHZjg0Jk8ioyoirD-TAaBgInZD84Q/viewform
+
+## Contact
+
+To join Circle13 or collaborate, fill out our recruitment form or reach out via Discord and LinkedIn.
